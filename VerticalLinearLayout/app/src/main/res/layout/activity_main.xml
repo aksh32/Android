@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="77dp"
+        android:layout_marginLeft="30px"
+        android:layout_marginRight="30px"
+        android:padding="50px"
+        android:text="Hello World!"
+        android:textAlignment="center"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:text="Hello!" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="77dp"
+        android:layout_margin="30px"
+        android:padding="50px"
+        android:text="TextView"
+        android:textAlignment="center"
+        tools:text="Welcome " />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="77dp"
+        android:layout_margin="30px"
+        android:padding="50px"
+        android:text="TextView"
+        android:textAlignment="center"
+        tools:text="To" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="77dp"
+        android:layout_margin="30px"
+        android:padding="50px"
+        android:text="TextView"
+        android:textAlignment="center"
+        tools:text="Android Lab" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="77dp"
+        android:layout_margin="30px"
+        android:padding="50px"
+        android:text="TextView"
+        android:textAlignment="center"
+        tools:text="Thank You!" />
+
+</LinearLayout>
