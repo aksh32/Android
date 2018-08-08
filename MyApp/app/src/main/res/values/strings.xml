@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="person_name">Person Name</string>
+    <string name="title">Title</string>
+    <string name="delete">Delete</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+</resources>
