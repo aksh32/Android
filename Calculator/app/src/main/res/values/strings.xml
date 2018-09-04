@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="Color">Change Color</string>
+    <string name="Submit">Calculate</string>
+    <string name="Add">+</string>
+    <string name="Subtract">-</string>
+    <string name="Division">/</string>
+    <string name="log">log</string>
+    <string name="Clear">C</string>
+    <string name="Multiply">X</string>
+    <string name="NumVal">Enter Any Number</string>
+</resources>
